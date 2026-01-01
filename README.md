@@ -298,4 +298,6 @@ This list is for educational purposes. Services change their policies. Always ve
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [PikaSim](https://pikasim.com) has waived all copyright and related rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
+Maintained by [CodeBru](https://codebru.com)
