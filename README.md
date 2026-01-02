@@ -1,5 +1,11 @@
 # Awesome No-KYC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![GitHub stars](https://img.shields.io/github/stars/codebruinc/awesome-no-kyc?style=social)](https://github.com/codebruinc/awesome-no-kyc/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/codebruinc/awesome-no-kyc?style=social)](https://github.com/codebruinc/awesome-no-kyc/network/members)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/codebruinc/awesome-no-kyc/pulls)
+[![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Last Commit](https://img.shields.io/github/last-commit/codebruinc/awesome-no-kyc)](https://github.com/codebruinc/awesome-no-kyc/commits/main)
+
 > A curated list of services that respect your privacy by not requiring identity verification, account creation, or personal data collection.
 
 **Know Your Customer (KYC)** regulations require businesses to verify customer identities. While intended for anti-money laundering, KYC creates privacy risks: data breaches, identity theft, surveillance, and exclusion of the unbanked. This list catalogs services that operate without requiring personal information.
