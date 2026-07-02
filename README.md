@@ -115,6 +115,7 @@ Accept crypto payments without KYC requirements for merchants.
 | [BTCPay Server](https://btcpayserver.org/) ⭐ | Self-hosted payment processor. Full control. | 🟠 ⚡ ⬛ BTC, Lightning, XMR, more |
 | [LNbits](https://lnbits.com/) | Lightning payment tools. Self-hostable. | ⚡ Lightning |
 | [SatSale](https://github.com/SatSale/SatSale) | Self-hosted payment processor | 🟠 ⚡ BTC, Lightning |
+| [Seneschal](https://seneschal.space/) | Hosted XMR/ZEC payment webhooks from a read-only view key. Non-custodial, no account, no email, pay-per-use (create + top up payable in XMR/ZEC directly). | ⬛ XMR, ZEC |
 
 ---
 
