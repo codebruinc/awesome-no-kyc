@@ -157,6 +157,7 @@ Virtual phone numbers and SMS services without identity verification.
 
 | Service | Description | Payment Methods |
 |---------|-------------|-----------------|
+| [UK SIM Keep-Number Reminder](https://getgiffgaff.com/tools/keep-number-reminder/) | Local-only fifth-month SIM reminder. No account, email, phone number, or ID. | Free |
 | [Silent.Link](https://silent.link/) ⭐ | Anonymous eSIM with SMS capability. | 🟠 ⬛ BTC, XMR |
 | [JMP.chat](https://jmp.chat/) | Phone number via XMPP/SIP. | 🟠 BTC, Credit card |
 | [Crypton.sh](https://crypton.sh/) | Cloud SIM for SMS. Encrypted. | 🟠 ⬛ BTC, XMR, Card |
