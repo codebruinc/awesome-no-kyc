@@ -211,6 +211,7 @@ Domain registration and web hosting without identity verification.
 | [Bitlaunch](https://bitlaunch.io/) | VPS with instant crypto payment. | 🟠 ⚡ BTC, Lightning |
 | [Servers Guru](https://servers.guru/) | VPS accepting Monero. | ⬛ XMR |
 | [EQVPS](https://eqvps.com/) | Crypto-native VPS. No account, email + crypto only. Order via API/MCP. | USDC, USDT |
+| [Packetra](https://packetra.com/) | Finland & Switzerland hosting. VPS, dedicated, shared. Email + password signup, no ID. | 🟠 ⬛ BTC, XMR |
 
 ---
 
