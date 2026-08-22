@@ -173,6 +173,7 @@ Mobile data and eSIMs without account requirements or identity verification.
 | [PikaSim](https://pikasim.com/) ⭐ | Privacy eSIM for 170+ countries. No account, no ID, no email with crypto. | 🟠 ⚡ ⬛ BTC, Lightning, XMR |
 | [Silent.Link](https://silent.link/) ⭐ | Anonymous eSIM with data, SMS, and calls. | 🟠 ⬛ BTC, XMR |
 | [ESIM.me](https://esim.me/) | Physical eSIM card. Can pay with crypto. | 🟠 BTC via BTCPay |
+| [BuyUKeSIM](https://buyukesim.com/) | Real UK +44 carrier eSIM bought outright for a one-off $25, not leased for a term, so the number is never returned to a pool and reassigned. Receives verification SMS and incoming calls. Travel data in 190+ countries. No ID, no account, no email; orders retrieved by token. | 🟠 ⬛ BTC, XMR, USDT (TRC20/BEP20/ERC20), ETH, SOL, TRX, USDC, BNB, GRAM, DOGE |
 
 ---
 
