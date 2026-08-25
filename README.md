@@ -238,6 +238,7 @@ Ways to shop online while preserving privacy.
 |---------|-------------|-----------------|
 | [CoinCards](https://coincards.com/) ⭐ | Buy gift cards with crypto. No account. | 🟠 ⚡ ⬛ BTC, Lightning, XMR |
 | [Bitrefill](https://bitrefill.com/) | Gift cards and mobile top-ups. | 🟠 ⚡ BTC, Lightning |
+| [CardsRelay](https://cardsrelay.com/) | Gift cards and mobile top-ups. ~2,500 brands. No account. | 🟠 ⬛ BTC, XMR, ZEC, ZANO, more |
 | [The Bitcoin Company](https://thebitcoincompany.com/) | Gift cards via Lightning. | ⚡ Lightning |
 | [Purse.io](https://purse.io/) | Amazon shopping with Bitcoin discount. | 🟠 BTC |
 | [ShopInBit](https://shopinbit.com/) | EU shopping with crypto. | 🟠 ⬛ BTC, XMR |
