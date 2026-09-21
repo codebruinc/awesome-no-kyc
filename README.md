@@ -173,6 +173,7 @@ Mobile data and eSIMs without account requirements or identity verification.
 | [PikaSim](https://pikasim.com/) ⭐ | Privacy eSIM for 170+ countries. No account, no ID, no email with crypto. | 🟠 ⚡ ⬛ BTC, Lightning, XMR |
 | [Silent.Link](https://silent.link/) ⭐ | Anonymous eSIM with data, SMS, and calls. | 🟠 ⬛ BTC, XMR |
 | [ESIM.me](https://esim.me/) | Physical eSIM card. Can pay with crypto. | 🟠 BTC via BTCPay |
+| [SimBank](https://www.simbank.com/) | Travel eSIM for 200+ countries. Crypto checkout; no government ID. Select plans with real number + SMS. | 🟠 BTC and other crypto |
 
 ---
 
