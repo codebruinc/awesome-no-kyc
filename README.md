@@ -76,6 +76,7 @@ Peer-to-peer and decentralized exchanges that don't require identity verificatio
 | [FixedFloat](https://fixedfloat.com/) | Instant exchange with no registration for small amounts. | 🟠 ⚡ Multiple |
 | [SideShift.ai](https://sideshift.ai/) | No-account instant swaps. | 🟠 ⬛ Multiple |
 | [Haveno](https://haveno.exchange/) | Decentralized Monero DEX (Bisq fork). Desktop app. | ⬛ XMR |
+| [USDP Swap](https://usdprivacy.com/) | No-sign-up crypto swaps routed through Monero. | 🟠 Multiple |
 
 ### Wallets
 
