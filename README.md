@@ -211,6 +211,7 @@ Domain registration and web hosting without identity verification.
 | [Bitlaunch](https://bitlaunch.io/) | VPS with instant crypto payment. | 🟠 ⚡ BTC, Lightning |
 | [Servers Guru](https://servers.guru/) | VPS accepting Monero. | ⬛ XMR |
 | [EQVPS](https://eqvps.com/) | Crypto-native VPS. No account, email + crypto only. Order via API/MCP. | USDC, USDT |
+| [Hyrule Cloud](https://hyrule.host) | IPv6-native VPS on its own network (AS215932, NL). No account or email for one-shot orders. Order via web or x402 API. | ⬛ XMR, USDC |
 
 ---
 
