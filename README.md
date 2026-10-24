@@ -209,6 +209,7 @@ Domain registration and web hosting without identity verification.
 | [Hostinger](https://hostinger.com/) | Mainstream host accepting crypto. | 🟠 BTC |
 | [Namecheap](https://namecheap.com/) | Domains with Bitcoin payment option. | 🟠 BTC |
 | [Bitlaunch](https://bitlaunch.io/) | VPS with instant crypto payment. | 🟠 ⚡ BTC, Lightning |
+| [BitVPS](https://bitvps.com/) 🧅 | Linux KVM VPS. No account: email + payment, root access by magic link. Tor mirror. | 🟠 ⬛ BTC, XMR, ETH, SOL |
 | [Servers Guru](https://servers.guru/) | VPS accepting Monero. | ⬛ XMR |
 | [EQVPS](https://eqvps.com/) | Crypto-native VPS. No account, email + crypto only. Order via API/MCP. | USDC, USDT |
 
