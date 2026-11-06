@@ -161,6 +161,7 @@ Virtual phone numbers and SMS services without identity verification.
 | [JMP.chat](https://jmp.chat/) | Phone number via XMPP/SIP. | 🟠 BTC, Credit card |
 | [Crypton.sh](https://crypton.sh/) | Cloud SIM for SMS. Encrypted. | 🟠 ⬛ BTC, XMR, Card |
 | [SMSPool](https://smspool.net/) | One-time SMS verification numbers. | 🟠 Crypto, Card |
+| [SMSPing](https://smsping.net/?utm_source=awesome-no-kyc&utm_medium=directory&utm_campaign=backlinks) | Online SMS verification with temporary virtual numbers. 150+ countries, 1,300+ services. Pay mainly in USDT (also TRX/ETH/BNB). Min top-up $10. | 🟠 USDT, TRX, ETH, BNB |
 | [TextVerified](https://textverified.com/) | SMS verification service. | 🟠 Crypto, Card |
 | [MoneroSMS](https://monerosms.com/) ⭐ | SMS service, Monero payments. | ⬛ XMR |
 
